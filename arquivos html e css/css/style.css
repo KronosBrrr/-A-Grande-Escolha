@@ -1,12 +1,12 @@
 .page_config{
     background-color: rgb(0, 0, 0);
 }
-h1{
+#titulo_desenvolvedores{
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 40px;
     color: #7800bd;
 }
-p{
+#p_desenv{
     color: blueviolet;
 }
 a{
