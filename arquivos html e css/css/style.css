@@ -1,0 +1,21 @@
+.page_config{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-family: Georgia;
+    font-size: 20px;
+    color: #7800bd;
+}
+p{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+    transition: 3s;
+
+}
+a:hover{
+    color: fuchsia;
+    font-size: 30px;
+}
